@@ -181,7 +181,12 @@
       /* Other */
       --radio-group-dot-foreground: var(--alt-color) ;
       }
-   
+      .resultsGroup-r_nuzN {
+background-color: #161616 ;
+}
+   .resultsGroup-r_nuzN-selected {
+background-color: #101010 ;
+}
    
       /* █░░ █ █▀▀ █░█ ▀█▀
          █▄▄ █ █▄█ █▀█ ░█░ */
