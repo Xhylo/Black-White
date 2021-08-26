@@ -181,6 +181,24 @@
       /* Other */
       --radio-group-dot-foreground: var(--alt-color) ;
       }
+        .scroller-lynW5A,
+        .list-17lzo8,
+        .categorySectionLast-2PPrHj,
+        .categoryHeader-O1zU94{
+            background-color: rgba(19, 19, 19, 0.892);
+        }
+        .contentWrapper-2H52F3, .referralBody-2ZG7wu{
+            background-color:rgba(19, 19, 19, 0.892);
+            box-shadow: 0px 0px 5px 0px rgb(255, 255, 255);
+        }
+        .header-RSCE0X{
+            box-shadow: 0px 0px 5px 0px rgb(255, 255, 255);
+        }
+        .theme-dark .uploadModal-2ifh8j,
+        .theme-dark .footer-3mqk7D{
+            background-color:rgba(19, 19, 19, 0.892);
+            box-shadow: 0px 0px 5px 0px rgb(255, 255, 255);
+        }
       .resultsGroup-r_nuzN {
 background-color: #161616 ;
 }
