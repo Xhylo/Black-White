@@ -438,6 +438,9 @@ to {
 }
 }
 /* Colorful Chatbar */
+.sprite-2iCowe {
+    filter: grayscale(0%) !important;
+}
 .stickerButton-3OEgwj {
     background: url("https://cdn.discordapp.com/attachments/751155896024826018/851923776672104518/stickers.png");
     background-size: 20px;
