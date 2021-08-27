@@ -328,7 +328,8 @@ background-color: #101010 ;
     }
 }
 #app-mount .titleBar-AC4pGV .wordmark-2iDDfm {
-    width: 100%;
+    width: calc(100% - 84px);
+    text-align: center;
 }
 #app-mount .titleBar-AC4pGV .wordmark-2iDDfm::after{
     content: var(--watermark-text);
@@ -344,7 +345,7 @@ background-color: #101010 ;
     font-size: 20px;
     font-weight: 900;
     animation: Gradient 5s linear infinite;
-    left:47%;
+    text-align: center;
 }
 #app-mount .titleBar-AC4pGV .wordmark-2iDDfm svg {
     display: none;
